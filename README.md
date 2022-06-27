@@ -7,4 +7,4 @@ I have sysadmin skills as in **Database management** (creation, integration & ma
 
 I have already created several infrastructures for video games that have welcomed 400 people simultaneously at their peak. So I know what it's like to be in charge of a production line. In this context, I had a few developers working with me and for whom I was responsible.
 
-I work on Linux, Mac and Windows and I conclude that my dream would be to create a cross-platform OS to simplify the user and developer experience.
+I work on Linux, Mac and Windows and I conclude that my dream would be to create a cross-platform OS (For software and devices) to simplify the user and developer experience.
