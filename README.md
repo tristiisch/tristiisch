@@ -1,12 +1,27 @@
 ### Hi there 👋
 
-My main languages are **Java**, **C#**, **C++**, **C**, **Javascript/TypeScript**, **Python**, **Golang**.
+#### About Me
+- **Programming Languages:** Java, C#, C++, C, JavaScript/TypeScript, Python, Golang, PHP
+- **Roles:** Full-Stack Developer, Architect, Fat Client Developer, DevOps
 
-I'm a full-stack developer, architect, fat client, dev-ops.
-I am a versatile professional, skilled in full-stack development, architecture design, fat client development, and DevOps.
+#### Professional Skills
+- **Full-Stack Development:** Versatile in both front-end and back-end development.
+- **Architecture Design:** Proficient in designing robust and scalable software architectures.
+- **Fat Client Development:** Experienced in developing client-side heavy applications.
+- **DevOps Expertise:** Skilled in CI/CD pipelines, infrastructure automation, and system administration.
 
-I possess comprehensive sysadmin skills, including proficient database management involving creation, integration, and maintenance. Additionally, I am adept at cybersecurity measures, such as firewall implementation, preventing port scans, and mitigating brute force attacks. My experience with Docker spans from managing single containers to orchestrating multi-container setups using docker-compose. Moreover, I have a solid grasp of Redis, utilizing it for simple caching and establishing communication channels.
+#### Technical Proficiencies
+- **System Administration:** Expert in database management, integration, and maintenance.
+- **Cybersecurity:** Adept in firewall implementation, port scan prevention, and brute force attack mitigation.
+- **Containerization:** Extensive experience with Docker, ranging from single container management to orchestrating multi-container setups using docker-compose.
+- **Redis:** Proficient in using Redis for caching and establishing communication channels.
 
-In my professional history, I have successfully engineered infrastructures for video games, accommodating up to 400 simultaneous users during peak periods. This experience has equipped me with a deep understanding of managing production lines, where I have led and overseen a team of developers.
+#### Professional Experience
+- **Video Game Infrastructure:** Engineered infrastructures supporting up to 400 simultaneous users in peak periods.
+- **Production Line Management:** Led and managed a team of developers in high-pressure environments.
 
-My expertise extends across various operating systems, including Linux, Mac, and Windows. Through my work, I have come to the realization that my ultimate aspiration is to develop a cross-platform operating system that simplifies both user and developer experiences across software and devices.
+#### Aspirations
+- **Cross-Platform OS Development:** Aim to develop a cross-platform operating system that enhances user and developer experiences across various software and devices.
+
+#### Operating Systems
+- Experienced across Linux, Mac, and Windows platforms.
